@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+setup.py
+restrand/__init__.py
+restrand.egg-info/PKG-INFO
+restrand.egg-info/SOURCES.txt
+restrand.egg-info/dependency_links.txt
+restrand.egg-info/requires.txt
+restrand.egg-info/top_level.txt
+restrand/bin/randrest.py
+restrand/data/chinese.txt
+restrand/data/fastfood.txt
+restrand/data/steak.txt

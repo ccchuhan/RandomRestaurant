@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: restrand
+Version: 0.0.2
+Summary: randomly choose restaurants utilities
+Home-page: UNKNOWN
+Maintainer: Chuhan Feng
+Maintainer-email: chuhanfe@andrew.cmu.edu
+License: GPL
+Description: restrand utilities
+        ==============
+        Handy scripts for the restrand project.
+              
+Platform: UNKNOWN
